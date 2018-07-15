@@ -5,7 +5,7 @@ Complexity: O(log(n))
 Asegurese que el archivo solution.py se encuentra junto al archivo entrada.txt
 
 ## Ejecutar
-python3 solution.py
+`python3 solution.py`
 
 ## Adicionales
 * checkSolution.py: Verifica si todos los números en salida.txt son numeros perfectos
