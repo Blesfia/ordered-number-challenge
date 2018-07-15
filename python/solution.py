@@ -8,7 +8,7 @@ def needsImprove(number):
   """
     Define if a string number needs to be improved based on first 2 digits
     for example:
-      10  needs to be improved
+      10  DONT need to be improved
       1   DONT need to be improved
       01  needs to be improved
       100 DONT need to be improved
@@ -26,7 +26,7 @@ def decreaseDigit(number):
     Decrease an string number based on first 2 digits
     for example:
       0 will be 0
-      9 will be 0
+      9 will be 9
       09 will be 98
       67 will be 57
 
